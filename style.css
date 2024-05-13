@@ -1,0 +1,25 @@
+button {
+  height: 1.2cm;
+  width: 4cm;
+  background-color: violet;
+}
+
+#speedometer {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#speed {
+  font-size: 30px;
+}
+
+#start {
+position: absolute;
+top:50px;
+right:500px
+}
